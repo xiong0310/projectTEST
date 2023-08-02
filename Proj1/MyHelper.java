@@ -11,4 +11,5 @@ public class MyHelper {
 }
 class myclass {
 	//this is the modification by master
+		//this is the modification by dev
 }
