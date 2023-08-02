@@ -6,5 +6,9 @@ public class MyHelper {
 		//fa
 		//fsdafdf\
 		//这是dev的修改
+		//fdads
 	}
+}
+class myclass {
+
 }
